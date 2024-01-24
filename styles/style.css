@@ -1,0 +1,16 @@
+.earth-page {
+    background-color: beige;
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    display: flex;
+    align-items: end;
+}
+
+.moon-page {
+    background-color: beige;
+    text-align: center;
+    margin: auto;
+}
